@@ -82,7 +82,6 @@ function weatherDetails(info){
         }
         infoText.classList.remove('pending', 'error')
         wrapper.classList.add('active')
-        // console.log(info)
     }
 }
 
